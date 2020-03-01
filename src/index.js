@@ -1,6 +1,6 @@
 
 /**
- * Returns latest index of provided `searchString` which matches the char of any provided option in `opts` list.
+ * Returns the latest index of provided `searchString` which matches the char of any provided option in `opts` list.
  * 
  * Returns -1 if there is no any matches.
  * 
